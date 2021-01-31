@@ -1,4 +1,10 @@
  @charset "utf-8";
 /* CSS Document */ 
-Bla bla bla bvcrftgxfhzdfhdfghf
-
+h1{
+    background: skyblue;
+    display: inline-block;
+}
+a{
+    background: springgreen;
+    display: block;
+}
