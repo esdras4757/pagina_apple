@@ -44,3 +44,60 @@ nav ul li {margin: 0;
 			display: inline-block;
 			margin-top: 9px;
 		}
+.ADVE{
+    border: 0px;
+	margin-top: -10px;
+	padding: 5px;
+	text-align: center;
+	background: #0A87E9;
+	height: 20px;
+	
+
+}
+.msj{
+		text-decoration: none;
+        color: #F8F9FA;
+}
+.suge{
+	font-size: 20px;
+	margin-top: -20px;
+padding-bottom: 20px;
+	text-align: center;
+	background: #E2E3E4;
+	height: 30px;
+	
+}
+.linea{
+	text-decoration: none;
+        color: #0A87E9;
+}
+.iph{
+	 background: white;
+    color: black;
+    margin: 0 auto;
+    padding: 10px;
+    width: 30%;
+	text-align: center;
+    box-sizing: border-box; 
+	
+}
+.dd{
+	font-size: 50px;
+}
+h2{
+	font-size: 30px;
+}
+.anun{
+	font-size: 20px;
+}
+.in{
+    padding: 40px;
+	text-decoration: none;
+	color: #0A87E9;
+}
+.imd{
+	max-width: 100%;
+	height:700px; 
+	margin-left: 250px;
+	margin-right: 0px;
+}
