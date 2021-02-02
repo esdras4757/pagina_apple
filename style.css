@@ -35,7 +35,7 @@ header a{
 	text-align: center;
 	color: #AAAAAA;
 	text-decoration: none;
-
+font-family: 'Open Sans', sans-serif;
    
 }
 
@@ -51,7 +51,8 @@ nav ul li {margin: 0;
 	text-align: center;
 	background: #0A87E9;
 	height: 20px;
-	
+	font-size: 10px;
+	font-family: 'Open Sans', sans-serif;
 
 }
 .msj{
@@ -59,13 +60,13 @@ nav ul li {margin: 0;
         color: #F8F9FA;
 }
 .suge{
-	font-size: 20px;
+	font-size: 15px;
 	margin-top: -20px;
 padding-bottom: 20px;
 	text-align: center;
 	background: #E2E3E4;
 	height: 30px;
-	
+	font-family: 'Open Sans', sans-serif;
 }
 .linea{
 	text-decoration: none;
@@ -79,7 +80,7 @@ padding-bottom: 20px;
     width: 30%;
 	text-align: center;
     box-sizing: border-box; 
-	
+	font-family: 'Open Sans', sans-serif;
 }
 .dd{
 	font-size: 50px;
