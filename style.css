@@ -20,6 +20,10 @@ img{
 
 
 header {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	right: 0;
 	border: 0px;
 	margin-top: -16px;
 	padding: 0;
@@ -27,7 +31,7 @@ header {
 	
 	background: black;
 	color: white;
-	height: 45px;
+	height: 60px;
 }
 header a{
 	margin-left: 43px;
@@ -45,8 +49,12 @@ nav ul li {margin: 0;
 			margin-top: 9px;
 		}
 .ADVE{
+	position: fixed;
+	width: 100%;
+	left: 0;
+	right: 0;
     border: 0px;
-	margin-top: -10px;
+	margin-top: 40px;
 	padding: 5px;
 	text-align: center;
 	background: #0A87E9;
@@ -60,8 +68,12 @@ nav ul li {margin: 0;
         color: #F8F9FA;
 }
 .suge{
+	position: fixed;
+	width: 100%;
+	left: 0;
+	right: 0;
 	font-size: 15px;
-	margin-top: -20px;
+	margin-top: 70px;
 padding-bottom: 20px;
 	text-align: center;
 	background: #E2E3E4;
