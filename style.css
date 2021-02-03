@@ -89,6 +89,17 @@ padding-bottom: 20px;
 	height: 30px;
 	font-family: 'Open Sans', sans-serif;
 }
+
+#txtpie{
+	padding-top: 30px;
+	padding-left: 440px;
+	padding-right: 440px;
+	background: #E9E9E9;
+	font-family: 'Open Sans';
+	font-size: 12px;
+	text-align: left;
+}
+
 .linea{
 	text-decoration: none;
         color: #0A87E9;
