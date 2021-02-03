@@ -18,6 +18,20 @@ img{
 	margin-right: 22px;
 }
 
+.watch{
+	max-width: 50%;
+	height:auto; 
+	margin-left: 50%;
+
+}
+
+.watch2{
+	max-width: 50%;
+	height:auto; 
+	margin-left: 0px;
+
+}
+
 
 header {
 	position: fixed;
@@ -106,6 +120,6 @@ h2{
 .imd{
 	max-width: 100%;
 	height:700px; 
-	margin-left: 250px;
+	margin-left: 310px;
 	margin-right: 0px;
 }
